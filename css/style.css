@@ -1,0 +1,21 @@
+body {
+    /* background-color: aqua; */
+    background-image: url('../img/ac.jpg');
+}
+
+.caja {
+    width: 200px;
+    height: 200px;
+    border: 2px red solid;
+    background-color: aliceblue;
+    margin: 20px;
+    float: left;
+}
+
+.caja-verde {
+    border: 2px green solid;
+}
+
+#c-1 {
+    background-color: blueviolet;
+}
